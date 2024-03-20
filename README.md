@@ -8,6 +8,7 @@
   
  <p>Entrada</p> 
   A entrada consiste em vários casos de teste. Cada caso contém uma string que descreve a palavra que Juquinha deseja consultar. Essa string é composta apenas de letras minúsculas e seu      tamanho não excede 20 caracteres.
+
   
   <p>Saída</p> 
   Para cada caso de teste imprima se a palavra que Juquinha consultou é um palavrão ou uma palavrinha.
